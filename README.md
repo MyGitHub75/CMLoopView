@@ -2,8 +2,7 @@
 简易的图片轮播图
 ## 屏幕截图
 
-![](https)
-![](https://github.com/MyGitHub75/CMLoopView?raw=true">)
+![](https://github.com/MyGitHub75/CMLoopView/blob/master/ScreenShot/loopView.gif?raw=true">)
 
 # 系统支持
 
